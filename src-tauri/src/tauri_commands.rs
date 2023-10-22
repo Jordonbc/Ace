@@ -1,11 +1,6 @@
 use crate::{globals, error::LogOnError};
 
 #[tauri::command]
-pub fn hello_world() -> &'static str {
-    return "Hello, World!";
-}
-
-#[tauri::command]
 pub async fn open_source_dialog() {
     let app_handle = globals::get_app_handle().log_on_err().expect("App handle invalid!");
 
