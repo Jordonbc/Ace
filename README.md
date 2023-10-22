@@ -84,8 +84,8 @@ A3: Absolutely. ACE is designed to manage videos of various resolutions, includi
 
 ## Acknowledgments
 - FFmpeg: The backbone of our encoding process, allowing for versatile video processing. Check them out.
-
 - Tauri: For making it possible to deliver ACE as a lightweight and efficient desktop application.
+- NEAV1E: Special thanks to NEAV1E for the inspiration behind ACE. Their pioneering efforts in video encoding have paved the way for further innovations in the field. Explore [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes).
 
 ## License
 This project is licensed under the MIT License. Refer to the [LICENSE](https://github.com/Jordonbc/Ace/blob/stable/LICENSE) file for detailed information.
